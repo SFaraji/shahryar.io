@@ -14,9 +14,9 @@ Clone the project by inputing the following command into your git shell
 git clone https://github.com/SFaraji/shahryar.io.git
 ```
 
-### Naming conventions
+<!-- ### Naming conventions
 The naming convention follwed in this project will be camelCase.
-Eg : camelCase
+Eg : camelCase -->
 
 ## Built With
 

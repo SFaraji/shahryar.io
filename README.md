@@ -1,5 +1,5 @@
 # shahryar.io
-This is Shahryar Faraji personal website.<br>
+This repository includes all the required operation for creating Shahryar Faraji website.<br>
 Everyone is open to new suggestion to look and feel of the website.
 
 ## Getting Started
